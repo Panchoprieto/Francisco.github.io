@@ -1,0 +1,70 @@
+.top{
+    padding:20px;
+}
+#rowheader{
+    background-color:black;
+    color:white;
+    font-size:20px;
+    display:flex;
+    justify-content:space-around;
+    margin:10px;
+}
+
+#rowmid{
+    background-color:black;
+    color:white;
+    font-size:20px;
+    display:flex;
+    justify-content:space-around;
+    margin:20px ;
+    
+}
+
+.name{
+    padding-top:45px;
+
+}
+
+#francisco{
+    padding-left:275px;
+}
+
+#prieto{
+    padding-right:275px;
+}
+
+#rowcontact{
+    background-color:black;
+    color:white;
+    font-size:20px;
+}
+
+#rowaboutme{
+    display: flex;
+    justify-content:space-around;
+}
+
+.headshot{
+    width:200px;
+    height:200px;
+    display:flex;
+    justify-content:space-around;
+    border-radius:90px;
+    border-color:red;
+    padding:10px;
+   
+}
+
+.mid{
+    background-color:white;
+    color:black;
+    align-items:center;
+    font-size:50px;
+    margin-top:5px;
+    margin-bottom:5px;
+}
+
+.aboutme{
+    border:1px solid black;   
+}
+
