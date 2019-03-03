@@ -17,5 +17,23 @@
     display:flex;
     justify-content:space-around;
     margin:20px ;
-    
+}
+
+#rowaboutme{
+    margin:30px;
+    padding-bottom:20px;
+    background-color:grey;
+}
+
+a{
+    text-decoration: none;
+    color:white;
+}
+
+#rowcontact{
+    background-color:black;
+    font-size:20px;
+    display:flex;
+    flex-direction:column;
+    padding:20px;
 }

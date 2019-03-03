@@ -12,12 +12,6 @@
     
 }
 
-#rowcontact{
-    display:flex;
-    flex-direction:column;
-    padding:20px;
-}
-
 a{
     text-decoration: none;
     color:white;
@@ -58,6 +52,9 @@ a{
     background-color:black;
     color:white;
     font-size:20px;
+    display:flex;
+    flex-direction:column;
+    padding:20px;
 }
 
 #rowaboutme{

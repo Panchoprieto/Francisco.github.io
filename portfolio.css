@@ -27,16 +27,15 @@
 }
 
 .project{
-    color:black;
-    padding:50px;
+    color:#3227A4;
+    padding:20px;
     
 }
 
 .p{
-    padding:20px;
+    padding:10px;
+    padding-left:60px;
     background-color:grey;
-    text-align: justify;
-  text-justify: inter-word;
 }
 
 #info{
@@ -49,6 +48,8 @@
 
 #rowaboutme{
     margin:30px;
+    padding-bottom:20px;
+    background-color:grey;
 }
 
 a{
