@@ -1,3 +1,28 @@
+#email{
+    display:flex;
+    background-color: blue;
+    padding: 20px;
+    border-radius: 10px;
+}
+#phone{
+    display:flex;
+    background-color: lightblue;
+    padding: 20px;
+    border-radius: 10px;
+    
+}
+
+#rowcontact{
+    display:flex;
+    flex-direction:column;
+    padding:20px;
+}
+
+a{
+    text-decoration: none;
+    color:white;
+}
+
 .top{
     padding:20px;
 }
@@ -20,29 +45,11 @@
     
 }
 
-#rowcontact{
-    display:flex;
-    flex-direction:column;
-    padding:20px;
-}
-
-a{
-    text-decoration: none;
-    color:white;
-}
-
 .name{
     padding-top:45px;
 
 }
 
-#francisco{
-    padding-left:275px;
-}
-
-#prieto{
-    padding-right:275px;
-}
 
 #rowcontact{
     background-color:black;
@@ -53,17 +60,6 @@ a{
 #rowaboutme{
     display: flex;
     justify-content:space-around;
-}
-
-.headshot{
-    width:200px;
-    height:200px;
-    display:flex;
-    justify-content:space-around;
-    border-radius:90px;
-    border-color:red;
-    padding:10px;
-   
 }
 
 .mid{
@@ -78,4 +74,3 @@ a{
 .aboutme{
     border:1px solid black;   
 }
-

@@ -1,0 +1,21 @@
+.top{
+    padding:20px;
+}
+#rowheader{
+    background-color:black;
+    color:white;
+    font-size:20px;
+    display:flex;
+    justify-content:space-around;
+    margin:10px;
+}
+
+#rowmid{
+    background-color:black;
+    color:white;
+    font-size:20px;
+    display:flex;
+    justify-content:space-around;
+    margin:20px ;
+    
+}
