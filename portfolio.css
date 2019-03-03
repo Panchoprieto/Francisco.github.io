@@ -19,3 +19,44 @@
     margin:20px ;
     
 }
+
+#rowcontact{
+    display:flex;
+    flex-direction:column;
+    padding:20px;
+}
+
+.project{
+    color:black;
+    padding:50px;
+    
+}
+
+.p{
+    padding:20px;
+    background-color:grey;
+    text-align: justify;
+  text-justify: inter-word;
+}
+
+#info{
+    display:flex;
+    flex-wrap:wrap;
+    text-align: justify;
+    text-justify: inter-word;
+    
+}
+
+#rowaboutme{
+    margin:30px;
+}
+
+a{
+    text-decoration: none;
+    color:white;
+}
+
+#rowcontact{
+    background-color:black;
+    font-size:20px;
+}
